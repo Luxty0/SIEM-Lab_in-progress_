@@ -36,3 +36,15 @@ The image above displays different options of the OS you can choose from dependi
 
 ## Step 3: Install Agent onto the Windows system
 
+<img width="997" height="610" alt="image" src="https://github.com/user-attachments/assets/5dd803b3-0d2e-4232-9399-0ccf99e9420b" />
+
+* Do NOT forget to start the agent with the following command:
+  ```
+  NET START Wazuh
+  ```
+  
+<img width="1000" height="215" alt="image" src="https://github.com/user-attachments/assets/0ebb938e-dd9c-4960-a702-e8488b957cee" />
+
+## Step 4: Verifying Agent Deployment 
+
+<img width="2548" height="931" alt="image" src="https://github.com/user-attachments/assets/0e3a7a46-8304-4dec-8e86-1de1a6f9caec" />
