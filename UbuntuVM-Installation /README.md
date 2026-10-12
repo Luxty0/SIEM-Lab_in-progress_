@@ -6,7 +6,7 @@
 
 
 
-* Visit webpage https://www.vmware.com/ and install VMware Workstation Pro 
+* Visit webpage https://www.vmware.com/ and install VMware Workstation Pro.
 
 
 <img width="1295" height="848" alt="image" src="https://github.com/user-attachments/assets/15c282c7-e8d7-4fb6-81dc-dc289c0a32ce" />
@@ -25,7 +25,7 @@
 
 
 
-* Press on the link that says HERE highlighted in blue, then scroll down and look for VMware Workstation Pro
+* Press on the link that says HERE highlighted in blue, then scroll down and look for VMware Workstation Pro.
 
 <img width="1586" height="665" alt="image" src="https://github.com/user-attachments/assets/4c8a1ed1-4243-4fcb-ae29-351e071154c1" />
 
@@ -33,7 +33,7 @@
 
 
 
-* Select the most recent updated version that is compatible with your Desktop OS
+* Select the most recent updated version that is compatible with your Desktop OS.
 
 <img width="1772" height="703" alt="image" src="https://github.com/user-attachments/assets/48486662-d5a4-46eb-b995-2b103521bfee" />
 
@@ -41,7 +41,7 @@
 
 ## Step 2: Download ISO image of Ubuntu/Linux and create a VM 
 
-* Visit https://ubuntu.com/download and select the desktop version to download
+* Visit https://ubuntu.com/download and select the desktop version to download.
 
 <img width="1893" height="908" alt="image" src="https://github.com/user-attachments/assets/89f3e595-0d96-4e86-b3e0-3881662bfbce" />
 
@@ -56,7 +56,7 @@
 
 
 
-* To finish off with your fresh installation of Ubuntu, apply the following commands on the terminal to make sure ubuntu is updated 
+* To finish off with your fresh installation of Ubuntu, apply the following commands on the terminal to make sure ubuntu is updated. 
 
 [ The hardware resources shown above are not accurate to the requirements needed to install Wazuh, refer to the Lab-Architecture folder to view the correct resource capacity needed.]
 
