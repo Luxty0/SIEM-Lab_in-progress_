@@ -1,23 +1,8 @@
-# SIEM-Lab
+<h1>Setting up your Ubuntu Enviroment<h1>
 
-Setting up a SOC home lab utilizing the open-source SIEM tool WAZUH
+  
 
-Requirements: 
-
-* Laptop/Desktop (at least 8GB of RAM)
-
-* 4 vCPU cores & 50 GB of storage
-
-* Hypervisor (VMware Workstation Pro/VirtualBox)
-
-* Ubuntu ISO 
-
-* Virtual Windows Environment 
-
-* WAZUH (open-source SIEM & XDR tool)
-
-
-Step 1: Install VMware Workstation Pro
+## Step 1: Install VMware Workstation Pro
 
 Visit webpage https://www.vmware.com/ and install VMware Workstation Pro 
 
@@ -41,9 +26,9 @@ Select the most recent updated version that is compatible with your Desktop OS
 
 <img width="1772" height="703" alt="image" src="https://github.com/user-attachments/assets/48486662-d5a4-46eb-b995-2b103521bfee" />
 
+  
 
-
-Step 2: Download ISO image of Ubuntu/Linux and create a VM 
+## Step 2: Download ISO image of Ubuntu/Linux and create a VM 
 
 Visit https://ubuntu.com/download and select the desktop version to download
 
