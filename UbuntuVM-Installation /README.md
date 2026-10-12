@@ -58,6 +58,7 @@
 
 * To finish off with your fresh installation of Ubuntu, apply the following commands on the terminal to make sure ubuntu is updated 
 
+[ The hardware resources shown above are not accurate to the requirements needed to install Wazuh, refer to the Lab-Architecture folder to view the correct resource capacity needed.]
 
 ```bash
 sudo apt update
